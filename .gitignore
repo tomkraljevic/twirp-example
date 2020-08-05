@@ -2,3 +2,7 @@ src/github.com/
 src/google.golang.org/
 bin/
 pkg/
+
+src/tomkraljevic/twirpexample/rpc/haberdasher/service.pb.go
+src/tomkraljevic/twirpexample/rpc/haberdasher/service.twirp.go
+
